@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlexBobkovRussia
 - 👀 I’m interested in Backend (Python, PostgreSQL, Go, Docker, Git), and little in Frontend(HTML, CSS)
 - 🌱 I’m currently learning Python, PostgreSQL, Go, Docker, Git
-- 💞️ I’m looking to collaborate on Backend(Python, PostgreSQL, Go, Docker, Git)
+- 💞️ I’m looking for collaborating in Backend(Python, PostgreSQL, Go, Docker, Git)
 - 📫 How to reach me: email - bobkovalex.yaundex.ru@yandex.ru
 - 😄 Pronouns: He
 - ⚡ Fun fact: I am very interested in programming
