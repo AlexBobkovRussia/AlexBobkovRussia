@@ -3,8 +3,10 @@
 - 🌱 I’m currently learning Python, PostgreSQL, Go, Docker, Git
 - 💞️ I’m looking for collaborating in Backend(Python, PostgreSQL, Go, Docker, Git)
 - 📫 How to reach me:
-       - email - alexeybobkovdev@outlook.com
-       - Telegram - @AlexeyBobkovRussia
+
+   - email - alexeybobkovdev@outlook.com
+
+  - Telegram - @AlexeyBobkovRussia
 - 😄 Pronouns: He
 - ⚡ Fun fact: I am very interested in programming
 <!---
