@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlexBobkovRussia
+- 👋 Hi, I’m @AlexBobkovDev
 - 👀 I’m interested in Backend (Python, PostgreSQL, Go, Docker, Git), and little in Frontend(HTML, CSS)
 - 🌱 I’m currently learning Python, PostgreSQL, Go, Docker, Git
 - 💞️ I’m looking for collaborating in Backend(Python, PostgreSQL, Go, Docker, Git)
